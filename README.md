@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Patrick
 <sub> I'm a Data Sciences and Business Analytics Student working in Paris, France.</sub>  
-[![Linkedin Badge](https://img.shields.io/badge/-patrick-ldckr-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-ldckr/)](https://www.linkedin.com/in/patrick-ldckr/)
+[![Linkedin Badge](https://img.shields.io/badge/-pL-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-ldckr/)](https://www.linkedin.com/in/patrick-ldckr/)
 [![Gmail Badge](https://img.shields.io/badge/-leyendeckerpatrick-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leyendeckerpatrick@gmail.com)](mailto:leyendeckerpatrick@gmail.com) 
 
  
