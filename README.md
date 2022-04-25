@@ -1,14 +1,15 @@
 ### 👋 Hi there! I'm Patrick
-<sub> I'm a Data Sciences and Business Analytics Student working in Paris, France.</sub>  
-[![Linkedin Badge](https://img.shields.io/badge/-pL-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-ldckr/)](https://www.linkedin.com/in/patrick-ldckr/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Patrick-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-ldckr/)](https://www.linkedin.com/in/patrick-ldckr/)
 [![Gmail Badge](https://img.shields.io/badge/-leyendeckerpatrick-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leyendeckerpatrick@gmail.com)](mailto:leyendeckerpatrick@gmail.com) 
 
  
 <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="160" height="140" align="right" /> 
 <div>
-  I'm a German student, doing a master degree in <strong>Data Sciences and Business Analytics</strong> at <a href="https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/">CentraleSupélec & ESSEC</a> 🎓, part-time coder 💻 and to a degree tech enthusiast✈️🏄 .  
+  I'm a German student doing a master's degree in <strong>Data Sciences and Business Analytics</strong> at <a href="https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/">CentraleSupélec & ESSEC</a> 🎓, part-time coder 💻 and to a degree tech enthusiast✈️🏄 .  
+ </div>
   Intrested in any kind of subject related to <i>Machine Learning, Design and Product development</i>.
-
+</div>
 I am currently **looking for an internship** as Data Scientist or Data Analyst, don't hesitate to contact me !
 </div>
 
